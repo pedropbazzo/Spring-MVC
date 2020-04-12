@@ -7,13 +7,9 @@ An example application using AngularJS/Bootstrap as frontend and Spring MVC as R
 
 > NOTE: This project is under maintainance, no more new features added in future. If you are looking for the new Spring Boot 2 and Angular 5, check [angular-spring-reactive-sample](https://github.com/hantsy/angular-spring-reactive-sample).
 
-[![Build Status](https://drone.io/github.com/hantsy/angularjs-springmvc-sample/status.png)](https://drone.io/github.com/hantsy/angularjs-springmvc-sample/latest)
-
 ## Contribution
 
-_I appreciate any contribution for this project, including suggestions, documentation improvements, reporting issues, forks and bugfixs,  etc. I have found there are some unrelated issues added, before you file an issue, please **READ THE STEPS IN THIS README.md**  carefully_.
-
-**在你提交 ISSUE 前，请务必确认已经严格完成了本文中描述的操作步骤**。
+_I appreciate any contribution for this project, including suggestions, documentation improvements, reporting issues, forks and bugfixs,  etc. I have found there are some unrelated issues added, before you file an issue, please **READ THE STEPS IN THIS README.md**  carefully_
 
 Thank the DevFactory team member [@misgersameer](https://github.com/misgersameer) for sending several PRs to improve the code quaulity according to the sonar rules.
 
