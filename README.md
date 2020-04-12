@@ -33,7 +33,7 @@ Thank the DevFactory team member [@misgersameer](https://github.com/misgersameer
 1. Clone the codes.
 
    ```
-    git clone https://github.com/hantsy/angularjs-springmvc-sample
+    git clone https://github.com/pedropbazzo/Spring-MVC
    ```
   
 2. And enter the root folder, run `mvn tomcat7:run` to start up an embedded tomcat7 to serve this application.
